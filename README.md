@@ -18,7 +18,7 @@
 <h3 align="center">Most Wanted Language</h3>
 <p align="center">
   <a href="https://github.com/MAHABUB720/sim-Api.git" target="_blank">
-    <img align="center" src="Mahabub/python.png" alt="Python" height="65" width="65" />
+    <img align="center" src="Mahabub/node.js.png" alt="Python" height="65" width="65" />
   </a>
 </p>
 
