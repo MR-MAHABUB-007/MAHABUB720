@@ -62,28 +62,4 @@
   </a>
 </p>
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=0b6ab3&style=flat&logo" alt="Go to Top" /></a></p>
-content="width=device-width, initial-scale=1.0">
-    <title>Call Now Button</title>
-    <style>
-        .call-now-button {
-            display: inline-block;
-            padding: 10px 20px;
-            background-color: #28a745; /* Green background */
-            color: white; /* White text */
-            font-size: 18px;
-            text-align: center;
-            text-decoration: none;
-            border-radius: 5px;
-            cursor: pointer;
-        }
-        .call-now-button:hover {
-            background-color: #218838; /* Darker green on hover */
-        }
-    </style>
-</head>
-<body>
-
-    <a href="tel:+1234567890" class="call-now-button">Call Now</a>
-
-</body>
-</html>
+<a href="tel:+1234567890" class="call-now-button">Call Now</a>
