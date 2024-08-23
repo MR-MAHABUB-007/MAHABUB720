@@ -53,8 +53,7 @@
     <img align="center" src="Mahabub/gmail.png" alt="mail" height="50" width="55" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://samarjit-sahoo.vercel.app" target="_blank">
-    <img align="center" src="Mahabub/web.png" alt="website" height="50" width="50" />
+  <a href="tel:+1234567890" class="call-now-button">Call Now/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/www.xnxx.com140" target="_blank">
@@ -62,4 +61,3 @@
   </a>
 </p>
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=0b6ab3&style=flat&logo" alt="Go to Top" /></a></p>
-<a href="tel:+1234567890" class="call-now-button">Call Now</a>
