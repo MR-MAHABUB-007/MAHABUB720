@@ -62,11 +62,7 @@
   </a>
 </p>
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=0b6ab3&style=flat&logo" alt="Go to Top" /></a></p>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+content="width=device-width, initial-scale=1.0">
     <title>Call Now Button</title>
     <style>
         .call-now-button {
