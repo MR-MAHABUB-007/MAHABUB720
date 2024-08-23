@@ -53,9 +53,7 @@
     <img align="center" src="Mahabub/gmail.png" alt="mail" height="50" width="55" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="666" target="_blank">
-    <img align="center" src="assets/web.png" alt="website" height="50" width="50" />
-  </a>
+  <a href="tel:+8801613356376">Call now</a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/www.xnxx.com140" target="_blank">
     <img align="center" src="Mahabub/facebook.png" alt="facebook" height="50" width="55" />
