@@ -1,5 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MAHABUB720&label=👤 𝐏𝐑𝐎𝐅𝐈𝐋𝐄%20𝐕𝐈𝐄𝐖𝐒
-&color=0e75b6&style=flat" alt="MAHABUB720" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MAHABUB720&label=PROFILE%20VIEWERS&color=0e75b6&style=flat" alt="MAHABUB720" /> </p>
 
 <p align="center">
   <img src="Mahabub/header.png"/>
