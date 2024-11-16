@@ -1,3 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+<body style="text-align: center">
+    <h2>How to Add Video in HTML</h2>
+    <video width="500px" 
+           height="400px" 
+           controls="controls">
+        <source src=
+"https://media.geeksforgeeks.org/wp-content/uploads/20231020155223/
+Full-Stack-Development-_-LIVE-Classes-_-GeeksforGeeks.mp4" 
+                type="video/mp4" />
+    </video>
+</body>
+
+</html>
+
 <p href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=New+Amsterdam&size=30&letterSpacing=Normal&duration=4500&pause=1000&color=5FD338E9&background=080D36EB&center=true&vCenter=true&width=453&height=100&lines=Its+a+demo" alt="Typing SVG" /></a>
 
 
